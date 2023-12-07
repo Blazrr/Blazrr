@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sami<br>A passionate software developer from France<br><br>👨‍💻 All of my projects are available at [https://react-portfolio-rho-azure.vercel.app/](https://samielm.vercel.app/)<br><br>📫 You can reach me at selmhamedi@gmail.com
+Hi 👋, I'm Sami<br>A passionate software developer from France<br><br>👨‍💻 All of my projects are available at [[https://react-portfolio-rho-azure.vercel.app/](https://samielm.vercel.app/)](https://samielm.vercel.app/)<br><br>📫 You can reach me at selmhamedi@gmail.com
 
 
 ## 🌐 Socials:
